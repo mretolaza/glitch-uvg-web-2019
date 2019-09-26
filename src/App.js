@@ -1,3 +1,10 @@
+/******************************
+	UNIVERSIDAD DEL VALLE DE GUATEMALA
+	- Cambios realizados por: María Mercedes Retolaza Reyna 
+	- Carne: 16339 
+	Laboratorio 7 
+*******************************/
+
 import React, { Component } from 'react';
 import './App.css';
 import ScrollButton from './ScrollButton';
